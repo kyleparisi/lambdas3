@@ -1,0 +1,16 @@
+{
+  "name": "lambdas3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.231.1",
+    "aws4": "^1.7.0",
+    "nodegit": "^0.22.0"
+  }
+}
