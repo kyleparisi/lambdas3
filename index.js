@@ -38,7 +38,8 @@ chain.resolve(async function(err, credentials) {
       url,
       ref: 'master',
       singleBranch: true,
-      depth: 1
+      depth: 1,
+      noGitSuffix: true
     });
   } catch (e) {
     console.log(e);

@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.250.1",
+    "aws-sdk": "^2.257.1",
     "aws4": "^1.7.0",
-    "isomorphic-git": "^0.18.2"
+    "isomorphic-git": "^0.19.2"
   }
 }
